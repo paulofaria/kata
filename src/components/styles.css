@@ -1,0 +1,40 @@
+.overflow-scroll-gradient {
+    position: relative;
+    width: 50vw;
+    height: 30vh;
+    color: black;
+    margin: 20px;
+}
+
+.overflow-scroll-gradient::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    width: 49vw;
+    height: 25px;
+    background: linear-gradient(white, rgba(255, 255, 255, 0.001));
+}
+
+.overflow-scroll-gradient::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 49vw;
+    height: 25px;
+    background: linear-gradient(rgba(255, 255, 255, 0.001), white);
+}
+
+.overflow-scroll-gradient__scroller {
+    overflow-y: scroll;
+    width: 50vw;
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.card-body {
+    padding: 20px 0;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
