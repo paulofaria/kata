@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kata/static/css/main.dad3c075.chunk.css",
+    "main.js": "/kata/static/js/main.a007f8a1.chunk.js",
+    "main.js.map": "/kata/static/js/main.a007f8a1.chunk.js.map",
+    "runtime-main.js": "/kata/static/js/runtime-main.832ba453.js",
+    "runtime-main.js.map": "/kata/static/js/runtime-main.832ba453.js.map",
+    "static/css/2.89f067aa.chunk.css": "/kata/static/css/2.89f067aa.chunk.css",
+    "static/js/2.1bcc2e1e.chunk.js": "/kata/static/js/2.1bcc2e1e.chunk.js",
+    "static/js/2.1bcc2e1e.chunk.js.map": "/kata/static/js/2.1bcc2e1e.chunk.js.map",
+    "index.html": "/kata/index.html",
+    "precache-manifest.e2e640a473093726d63f96a347eaa811.js": "/kata/precache-manifest.e2e640a473093726d63f96a347eaa811.js",
+    "service-worker.js": "/kata/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/kata/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.dad3c075.chunk.css.map": "/kata/static/css/main.dad3c075.chunk.css.map",
+    "static/js/2.1bcc2e1e.chunk.js.LICENSE.txt": "/kata/static/js/2.1bcc2e1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.832ba453.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.1bcc2e1e.chunk.js",
+    "static/css/main.dad3c075.chunk.css",
+    "static/js/main.a007f8a1.chunk.js"
+  ]
+}
